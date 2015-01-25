@@ -5,7 +5,7 @@ This repository hosts the R code and documentation files for the Data Science's 
 
 The dataset being used is: Human Activity Recognition Using Smartphones
 
-Files
+#Files
 
 The code assumes that all the data is present in the current workplace of R, un-compressed and without names altered.
 
